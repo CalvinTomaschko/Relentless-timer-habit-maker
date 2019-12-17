@@ -7,10 +7,11 @@ A timer and reminder app for solidifying a new habit.
 
 # Demo 
 
-<img src="images/FullImageOfRelentlessTimer.PNG" height = "300" alt="Still shot of app in online editor">
 <img src="images/RelentlessProjectApp.gif" height = "550" alt="Moving Gif of task example">
 
-[demo site](https://editor.p5js.org/DesignCJT/full/BkALH6xe4)
+<img src="images/FullImageOfRelentlessTimer.PNG" height = "300" alt="Still shot of app in online editor">
+
+Live version at [demo site](https://editor.p5js.org/DesignCJT/full/BkALH6xe4) in the online P5.js editor!
 
 
 # Motivation
