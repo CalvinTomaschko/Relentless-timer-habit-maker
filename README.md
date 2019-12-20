@@ -111,5 +111,5 @@ Overall project is a Collaboration between Andrew Jung, Calvin Tomaschko
 and PM'd by Will Jung
 
 
-<img src="images/FrontEndVisualsMap.png" height = "450" alt="User interface work">
-<img src="images/SchemaFunctionMap_Dec18.png" height = "450" alt="Function Schema">
+<img src="images/FrontEndVisualsMap.png" height = "600" alt="User interface work">
+<img src="images/SchemaFunctionMap_Dec18.png" height = "600" alt="Function Schema">
